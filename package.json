@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-starter-capacitor",
+  "version": "0.0.1",
+  "description": "Build blazing fast mobile apps with Gatsby and Capacitor",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flogy/gatsby-starter-capacitor.git"
+  },
+  "keywords": [
+    "gatsby",
+    "capacitor",
+    "cordova",
+    "phonegap"
+  ],
+  "author": "Florian Gyger Software <info@floriangyger.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flogy/gatsby-starter-capacitor/issues"
+  },
+  "homepage": "https://github.com/flogy/gatsby-starter-capacitor#readme"
+}

@@ -25,7 +25,7 @@ Then kick off your project with this boilerplate code. This starter ships with a
 
     ```shell
     cd my-gatsby-capacitor-project/
-    gatsby develop
+    npx gatsby develop
     ```
 
 1.  **Open the source code and start editing!**
@@ -39,7 +39,7 @@ Then kick off your project with this boilerplate code. This starter ships with a
     Build the project and prepare it for Android (requires all dependencies installed as mentioned in the [Capacitor documentation](https://capacitor.ionicframework.com/docs/getting-started/dependencies/)).
 
     ```shell
-    gatsby build
+    npx gatsby build
     npx cap update android
     npx cap copy android
     npx cap open android
@@ -52,7 +52,7 @@ Then kick off your project with this boilerplate code. This starter ships with a
     Build the project and prepare it for iOS (requires all dependencies installed as mentioned in the [Capacitor documentation](https://capacitor.ionicframework.com/docs/getting-started/dependencies/)).
 
     ```shell
-    gatsby build
+    npx gatsby build
     npx cap update ios
     npx cap copy ios
     npx cap open ios

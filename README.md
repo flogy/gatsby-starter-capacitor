@@ -32,7 +32,7 @@ Then kick off your project with this boilerplate code. This starter ships with a
 
     Your site is now running at `http://localhost:8000`!
 
-    Open the `my-hello-world-starter` directory in your code editor of choice and edit `src/pages/index.ts`. Save your changes and the browser will update in real time!
+    Open the `my-hello-world-starter` directory in your code editor of choice and edit `src/pages/index.tsx`. Save your changes and the browser will update in real time!
 
 1.  **Build and start app for Android.**
 
@@ -64,7 +64,6 @@ Then kick off your project with this boilerplate code. This starter ships with a
 
 The [MIT License](LICENSE)
 
-
 ## Credits
 
-The *gatsby-starter-capacitor* starter is maintained and sponsored by the Swiss web and mobile app development company [Florian Gyger Software](https://floriangyger.ch).
+The _gatsby-starter-capacitor_ starter is maintained and sponsored by the Swiss web and mobile app development company [Florian Gyger Software](https://floriangyger.ch).

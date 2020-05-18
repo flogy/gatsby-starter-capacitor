@@ -21,5 +21,17 @@
   "bugs": {
     "url": "https://github.com/flogy/gatsby-starter-capacitor/issues"
   },
-  "homepage": "https://github.com/flogy/gatsby-starter-capacitor#readme"
+  "homepage": "https://github.com/flogy/gatsby-starter-capacitor#readme",
+  "dependencies": {
+    "gatsby": "^2.21.36",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.1",
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.2"
+  }
 }

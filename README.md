@@ -1,12 +1,16 @@
-# gatsby-starter-capacitor
+![Logo](./img/gatsby-starter-capacitor.png)
 
 **📱 Build blazing fast mobile apps with [Gatsby](https://www.gatsbyjs.org/) and [Capacitor](https://capacitor.ionicframework.com/)**
+
+# gatsby-starter-capacitor
 
 [![GitHub license](https://img.shields.io/github/license/flogy/gatsby-starter-capacitor)](https://github.com/flogy/gatsby-starter-capacitor/blob/master/LICENSE)
 
 You want to build a blazing fast web app that can also be turned into a mobile app running on Android and iOS?
 
 Then kick off your project with this boilerplate code. This starter ships with a default configuration of Gatsby combined with Capacitor, the spiritual successor to Apache Cordova and Adobe PhoneGap.
+
+![Screenshots](./img/screenshots.png)
 
 ## 🚀 Quick start
 

@@ -4,6 +4,9 @@
   "description": "Build blazing fast mobile apps with Gatsby and Capacitor",
   "private": true,
   "scripts": {
+    "build": "gatsby build",
+    "start:android": "npm run build && npx cap copy android && npx cap open android",
+    "start:ios": "npm run build && npx cap copy ios && npx cap open ios",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

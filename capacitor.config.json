@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.gatsbycapacitor",
+  "appName": "gatsby-starter-capacitor",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "public",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

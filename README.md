@@ -47,6 +47,8 @@ Then kick off your project with this boilerplate code. This starter ships with a
 
     Start your app from Android Studio which should now be opened.
 
+    After an initial start, you can use the NPM scripts `npm run build` and `npm run start:android` to restart / apply code changes.
+
 1.  **Build and start app for iOS.**
 
     Build the project and prepare it for iOS (requires all dependencies installed as mentioned in the [Capacitor documentation](https://capacitor.ionicframework.com/docs/getting-started/dependencies/)).
@@ -59,6 +61,8 @@ Then kick off your project with this boilerplate code. This starter ships with a
     ```
 
     Start your app from Xcode which should now be opened.
+
+    After an initial start, you can use the NPM scripts `npm run build` and `npm run start:ios` to restart / apply code changes.
 
 ## License
 

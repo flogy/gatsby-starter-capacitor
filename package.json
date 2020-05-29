@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/flogy/gatsby-starter-capacitor#readme",
   "dependencies": {
-    "@capacitor/android": "^2.1.0",
-    "@capacitor/cli": "^2.1.0",
-    "@capacitor/core": "^2.1.0",
-    "@capacitor/ios": "^2.1.0",
+    "@capacitor/android": "^2.1.1",
+    "@capacitor/cli": "^2.1.1",
+    "@capacitor/core": "^2.1.1",
+    "@capacitor/ios": "^2.1.1",
     "gatsby": "^2.21.36",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"

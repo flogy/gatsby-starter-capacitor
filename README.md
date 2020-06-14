@@ -10,6 +10,8 @@ You want to build a blazing fast web app that can also be turned into a mobile a
 
 Then kick off your project with this boilerplate code. This starter ships with a default configuration of Gatsby combined with Capacitor, the spiritual successor to Apache Cordova and Adobe PhoneGap.
 
+**Need to integrate Capacitor into an existing project?** Read this article: [Build blazing fast mobile apps with Gatsby and Capacitor](https://react-freelancer.ch/blog/build-mobile-apps-using-gatsby-and-capacitor)
+
 ![Screenshots](./img/screenshots.png)
 
 ## 🚀 Quick start

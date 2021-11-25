@@ -19,7 +19,7 @@ export default () => {
     >
       <h1>gatsby-starter-capacitor</h1>
       <img
-        style={{ width: "100%" }}
+        style={{ width: "100%", maxWidth: 640 }}
         src={gatsbyStartercapacitor}
         alt="Gatsby and Capacitor"
       />

@@ -1,10 +1,10 @@
 import React from "react";
-import { Plugins } from "@capacitor/core";
+import { Toast } from "@capacitor/toast";
 import gatsbyStartercapacitor from "../assets/gatsby-starter-capacitor.png";
 
 export default () => {
   const displayNativeToast = async () => {
-    await Plugins.Toast.show({
+    await Toast.show({
       text: "Hello world",
     });
   };

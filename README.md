@@ -70,6 +70,12 @@ Then kick off your project with this boilerplate code. This starter ships with a
 
     After an initial start, you can use the NPM scripts `npm run build` and `npm run start:ios` to restart / apply code changes.
 
+## Contribute 🦸
+
+Contributions are more than welcome! I love how Gatsby helps us developers building great web apps in a short time. That's why I'd like to give back with contributions like this. If you feel the same and would like to join me in this project it would be awesome to get in touch! 😊
+
+Please feel free to create, comment and of course solve some of the issues. To get started you can also go for the easier issues marked with the `good first issue` label if you like.
+
 ## License
 
 The [MIT License](LICENSE)

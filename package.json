@@ -7,7 +7,8 @@
     "build": "gatsby build",
     "start:android": "npm run build && npx cap copy android && npx cap open android",
     "start:ios": "npm run build && npx cap copy ios && npx cap open ios",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,yml,md}\""
   },
   "repository": {
     "type": "git",
@@ -26,19 +27,20 @@
   },
   "homepage": "https://github.com/flogy/gatsby-starter-capacitor#readme",
   "dependencies": {
-    "@capacitor/android": "^2.1.1",
-    "@capacitor/cli": "^2.1.1",
-    "@capacitor/core": "^2.1.1",
-    "@capacitor/ios": "^2.1.1",
-    "gatsby": "^2.21.36",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "@capacitor/android": "^3.3.2",
+    "@capacitor/cli": "^3.3.2",
+    "@capacitor/core": "^3.3.2",
+    "@capacitor/ios": "^3.3.2",
+    "@capacitor/toast": "^1.0.6",
+    "gatsby": "^4.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@types/node": "^14.0.1",
-    "@types/react": "^16.9.35",
-    "@types/react-dom": "^16.9.8",
-    "prettier": "^2.0.5",
-    "typescript": "^3.9.2"
+    "@types/node": "^16.11.10",
+    "@types/react": "^17.0.37",
+    "@types/react-dom": "^17.0.11",
+    "prettier": "^2.5.0",
+    "typescript": "^4.5.2"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter-capacitor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Build blazing fast mobile apps with Gatsby and Capacitor",
   "private": true,
   "scripts": {

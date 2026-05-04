@@ -20,7 +20,7 @@
     "cordova",
     "phonegap"
   ],
-  "author": "Florian Gyger Software <info@floriangyger.ch>",
+  "author": "Florian Gyger Software GmbH <info@floriangyger.ch>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/flogy/gatsby-starter-capacitor/issues"
